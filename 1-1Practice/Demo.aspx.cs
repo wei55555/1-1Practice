@@ -11,7 +11,7 @@ namespace _1_1Practice
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Demo can run.");
         }
     }
 }
